@@ -40,7 +40,7 @@
     "reduce_crossing_wall": "1",
     "role_based_wipe_speed": "0",
     "scarf_joint_speed": "75%",
-    "seam_gap": "100%",
+    "seam_gap": "10%",
     "seam_slope_conditional": "1",
     "seam_slope_steps": "20",
     "seam_slope_type": "all",
